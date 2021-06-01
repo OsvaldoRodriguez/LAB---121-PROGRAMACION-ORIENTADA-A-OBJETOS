@@ -1,0 +1,5 @@
+C:\Users\Dell\OneDrive\Documents\SharpDevelop Projects\SolucionExamenLab21Al\SolucionExamenLab21Al\bin\Debug\SolucionExamenLab21Al.exe
+C:\Users\Dell\OneDrive\Documents\SharpDevelop Projects\SolucionExamenLab21Al\SolucionExamenLab21Al\bin\Debug\SolucionExamenLab21Al.pdb
+C:\Users\Dell\OneDrive\Documents\SharpDevelop Projects\SolucionExamenLab21Al\SolucionExamenLab21Al\obj\Debug\SolucionExamenLab21Al.csprojResolveAssemblyReference.cache
+C:\Users\Dell\OneDrive\Documents\SharpDevelop Projects\SolucionExamenLab21Al\SolucionExamenLab21Al\obj\Debug\SolucionExamenLab21Al.exe
+C:\Users\Dell\OneDrive\Documents\SharpDevelop Projects\SolucionExamenLab21Al\SolucionExamenLab21Al\obj\Debug\SolucionExamenLab21Al.pdb
